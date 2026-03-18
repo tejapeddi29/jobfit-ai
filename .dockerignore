@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.git/
+.gitignore
+data/chroma_db/
+.env
+*.tar.gz
+.pytest_cache/
+.idea/
+.vscode/
